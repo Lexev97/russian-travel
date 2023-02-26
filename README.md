@@ -28,7 +28,7 @@ HTML5, CSS3, БЭМ, flex, Grid Layout, адаптивная верстка.
 $ git clone https://github.com/Lexev97/russian-travel.git
 ```
 
-## Планируемые дополнения:
+## Планируемые дополнения
 - Добавление второго языка.
 
 ## Ссылка на сайт
